@@ -1,13 +1,13 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #000000;
 }
 
 h1 {
   font-size: 5rem;
-  color: #DBEDF3;
+  color: #a5b516;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 3px 0 #12b335;
 
 }
 
@@ -36,17 +36,17 @@ background-image: url(images/tom1.png);
 }
 
 .j {
-  background-image: url(images/snare.png);
-
-}
-
-.k {
   background-image: url(images/crash.png);
 
 }
 
-.l {
+.k {
   background-image: url(images/kick.png);
+
+}
+
+.l {
+  background-image: url(images/snare.png);
 
 }
 
